@@ -22,7 +22,7 @@ The collectibles are as follows:
 (c) The player can activate the special ability by pressing “Q”.<br />
 (d) The player pauses and resumes playing by pressing the “ESC” button.<br />
 
-2. Android (Bonus):
+2. Android:
 
 (a) The player can move left and right by pressing on left and right buttons at the bottom-right of the screen.<br />
 (b) The player can jump by pressing on an Up button on the bottom-middle of the screen.<br />
